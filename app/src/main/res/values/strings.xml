@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pip</string>
+    <string name="pause">pause</string>
+    <string name="info_description">description</string>
+</resources>

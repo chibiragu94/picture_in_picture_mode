@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colors">
+        <item>#FFFFFF</item>
+       <!-- <item>#FFFFF0</item>
+        <item>#FFFFE0</item>-->
+        <item>#FFFF00</item>
+       <!-- <item>#FFFAFA</item>
+        <item>#FFFAF0</item>
+        <item>#FFFACD</item>
+        <item>#FFF8DC</item>
+        <item>#FFF5EE</item>
+        <item>#FFF0F5</item>
+        <item>#FFEFD5</item>
+        <item>#FFEBCD</item>
+        <item>#FFE4E1</item>
+        <item>#FFE4C4</item>
+        <item>#FFE4B5</item>
+        <item>#FFDEAD</item>
+        <item>#FFB6C1</item>
+        <item>#FFA500</item>
+        <item>#FFA07A</item>
+        <item>#FF8C00</item>
+        <item>#FF7F50</item>
+        <item>#FF69B4</item>
+        <item>#FF6347</item>-->
+        <item>#FF4500</item>
+      <!--  <item>#FF1493</item>
+        <item>#FF00FF</item>
+        <item>#FF00FF</item>
+        <item>#FF0000</item>
+        <item>#7FFFD4</item>
+        <item>#7FFF00</item>-->
+        <item>#7CFC00</item>
+       <!-- <item>#7B68EE</item>
+        <item>#778899</item>
+        <item>#708090</item>
+        <item>#6B8E23</item>
+        <item>#6A5ACD</item>
+        <item>#696969</item>
+        <item>#66CDAA</item>
+        <item>#6495ED</item>
+        <item>#5F9EA0</item>
+        <item>#556B2F</item>
+        <item>#4B0082</item>
+        <item>#48D1CC</item>-->
+    </string-array>
+
+</resources>
